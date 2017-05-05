@@ -1,0 +1,8 @@
+tmp
+llvm-build
+ldc-build
+llvm-root
+ldc-tizen
+*[.-]src
+*.tar.*
+
